@@ -33,7 +33,7 @@
 	.header {
 	}
 	.header_page1 {
-		background: no-repeat  url("../AutoService/img/Page1/HeaderBack.png");
+		background: no-repeat  url("../img/Page1/HeaderBack.png");
 		max-width: 100%;
 		background-size: cover;
 		background-position: center;
