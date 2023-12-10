@@ -98,12 +98,6 @@
  .register-link p a:hover{
 	text-decoration: underline;
  }
- .sendMain {
-	cursor: pointer; position: absolute; top: 20px; left: 10px;
-	}
-	.sendMain:before, .sendMain:after {content: ""; position: absolute; width: 24px; height: 4px; background: gray;}
-	.sendMain:before {transform: rotate(45deg);}
-	.sendMain:after {transform: rotate(-45deg);}
 
  @media screen and  (max-width: 500px) {
 	.wrapper{
